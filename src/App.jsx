@@ -2297,7 +2297,7 @@ export default function Game() {
           ))}
           <div style={{ marginTop: 20, fontSize: 22 }}>❤️</div>
         </div>
-        <div style={{ marginTop: 24, fontSize: 11, color: "#444" }}>❤️ [Your Names] ❤️</div>
+        <div style={{ marginTop: 24, fontSize: 11, color: "#444" }}>❤️ [ Youssef and Nora ] ❤️</div>
       </div>
     );
   }

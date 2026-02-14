@@ -155,7 +155,7 @@ const MEMORIES = {
   egypt: "We never made this journey together — yet.\nBut Egypt runs through both our veins.\nFrom the same soil, the same sun,\nnow the same story.\nHome is wherever you are.",
 };
 
-const FINAL_MESSAGE = `You've traveled through our memories,\nbattled monsters made of our favorite meals,\nand proven your vocabulary is as impressive as your appetite.\n\nFrom Atlanta to Egypt,\nevery location reminds me why\nevery day with you is an adventure.\n\nHappy Valentine's Day.\nI love you more than all the food in this game combined.\n(And that's saying something.)`;
+const FINAL_MESSAGE = `You've traveled through our memories,\nbattled monsters made of funky foods,\nand proven your vocabulary is as impressive as your appetite.\n\nFrom Atlanta to Egypt,\nevery location reminds me why\nevery day with you is an adventure.\n\nHappy Valentine's Day.\nI love you more than I can express.\nHope you enjoyed the game`;
 
 // ─── LEVEL ORDER ───
 const LEVELS = ["atlanta", "nyc", "boston", "tennessee", "athens", "egypt"];
